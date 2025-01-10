@@ -6,3 +6,5 @@ Some open source projects attract enough contributors that a community forms. A 
 Contributor Covenant is a code of conduct that you can adapt to express both these fundamental shared values, and the special norms and values that distinguish your own community.
 
 Adopting Contributor Covenant helps makes your community’s values explicit, and signals your commitment to creating a welcoming and safe environment for everyone.
+
+my name is Pratiksha.
